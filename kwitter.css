@@ -1,0 +1,18 @@
+#btn1{
+    color: rgb(233, 237, 240);
+    height: 40px;;
+    width:100px;
+    font-family:cursive;
+    font-weight: bold;
+}
+#h{
+    font-family:cursive;
+    font-style: italic;
+    font-weight: bold;
+    font-size:50px;
+    
+}
+body{
+    background-image:url("download.jpg");
+    background-size: cover;
+}
